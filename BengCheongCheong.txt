@@ -1,0 +1,9 @@
+Beng Cheong Cheong
+
+Module name of choice - Introduction to Git and Github
+
+Reason being not many people in my industry are familiar with Git and Github, so not many opportunities to learn.
+The three which I learned are:
+1) the entire flow of cloning, forking, pushing, pulling etc.
+2) what is commit and other git commands
+3) how to use git in general
